@@ -1,0 +1,5 @@
+![Screenshot 2024-01-10 at 11 14 21 pm (2)](https://github.com/ali-b24/PathMNIST_classification/assets/106062758/1ef1d8ef-78ba-4fa1-86d1-0cf2b2b5df76)
+![Screenshot 2024-01-10 at 11 31 11 pm (2)](https://github.com/ali-b24/PathMNIST_classification/assets/106062758/08a4d043-946f-40aa-87f8-3ee093cf5015)
+![Screenshot 2024-01-10 at 11 36 35 pm (2)](https://github.com/ali-b24/PathMNIST_classification/assets/106062758/304085b0-2a92-4e27-9e01-72b402ba61ab)
+![Screenshot 2024-01-10 at 11 39 29 pm (2)](https://github.com/ali-b24/PathMNIST_classification/assets/106062758/cc071858-38e7-4117-9874-b10b2a330c56)
+![Screenshot 2024-01-10 at 11 39 24 pm (2)](https://github.com/ali-b24/PathMNIST_classification/assets/106062758/13ea2bd4-b558-4248-97e4-86dcc5bb787b)
